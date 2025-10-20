@@ -29,3 +29,5 @@ git clone https://github.com/batuhantorun/todo-task-manager.git
 cd todo-task-manager
 python main.py
 
+For freelance inquiries, reach me at: batuhantorun.dev@gmail.com
+
